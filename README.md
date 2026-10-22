@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 "I’m Luscious, a hacker and Security Researcher with a deep passion for offensive security. My expertise lies in malware development, analysis, and testing—exploring the mechanics of evasion, payload delivery, and system internals. As an aspiring Cybersecurity Specialist, I focus on dissecting complex threats to understand how they operate and how to effectively defend against them."<br><br>
 
 
